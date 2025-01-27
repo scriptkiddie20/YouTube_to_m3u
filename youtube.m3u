@@ -120,7 +120,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738023440/ei/sM2XZ66-KZmTsfIPxtqrwQ0/ip/52.234.33.216/id/jdJoOhqCipA.230/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51370630/txs/51370625%2C51370626%2C51370627%2C51370628%2C51370629%2C51370630%2C51370631%2C51370632%2C51370633/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-Pqh8RlKEy0udWMUvoy_vKZ7NuRC-pH6IuiPf7EcXVoTWo0ph_7ag0WhmjKWCEEyMZNRBHR6wl3/spc/9kzgDVs8VqMFq7PTc5W3WFhGGMpjLuzHVUj5WfU8-WRk6uy4YKIJO-GnAs2-ohM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALcMRz-fzhDsJBoLJX0ty1klgEodBSxPiVqygSIn14OmAiEA6kiS57kaVgG3u0GfNthxRrqEm17fUEDRATe_TG0WMV8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", NewsFirst Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -342,7 +342,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/178/61/png-transparent-ary-news-pakistan-electronic-media-regulatory-authority-breaking-news-news-live-text-rectangle-logo-thumbnail.png" tvg-id="", ARY News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738023507/ei/8s2XZ76IOML4sfIP54yr6QM/ip/52.234.33.216/id/sUKwTVAc0Vo.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NA9I7aRJE60aszm68WPzx4EpDg55WYQS12KSNjhG21Sa-yLOd7yKE-nUeWevOoCrbdbeOfTIRf/spc/9kzgDSF6veCL6d6EAy4ivI6gIV4-mR6-5sgwkr1rY8PZXrQ61o56JJCdw788IZ8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN2B80RbgzehY7HrdE4j0UXn-f_f_6uJHonuB6oPqzpbAiEAqxa-nOO0d7mUTpyB4dkTJ8KhUj30e4IGsivx7SIS4JA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540954.png" tvg-id="", SAMMA News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -411,7 +411,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738023528/ei/CM6XZ8GvBpmTsfIPxtqrwQ0/ip/52.234.33.216/id/NEU1Xtm4FJQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-OcV7uTrVDApHz1Dg2wYSX3Jm4b93vFdkd3vD5hqSUSV508FLmh3_fMMI80AhiMvJyoGwjfP7u3/spc/9kzgDfVSpGC5Kbp9le_yvIeB_COMUeW-xnNwm3tK_GSXHumgMbbED75pb2vgEPw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgb7oImX_0QVd2yoKNRyjkQaEg_8_OPz2hK221KY_keCYCIQDbt2nqCb81UwNBYJHJO81oxFAtztYxtBijExGGyOGRyg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -435,7 +435,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738012432/ei/sKKXZ731LMzAsfIPlf-n0Qk/ip/52.190.138.161/id/zbbDIJzPFPw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-Pdcsd7LwO2zxxY1IJvKRXd2hK2MPXlLIooGQW_DpmJasnWX87PHT5iRnC1hP73irAtZmUAGzrE/spc/9kzgDRPrW0cxJza_6S_2tW0694dSt8R9deRjo59_CF0nT5HoHJL-0kmff6f1qyk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgccErb-1ms3sj5w5h8JhsZjGYiHV22ke8q7CkS_oD-fQCIErIwm8lai6WpDfJYxzAfCa-mor5Nte5itVruqSLyLdT/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
