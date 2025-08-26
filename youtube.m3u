@@ -696,7 +696,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/YcqA1r5.png" tvg-id="", TVONE TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756201356/ei/Ky2taPmqONyFruEPzNPm0Qs/ip/172.184.210.210/id/yNKvkPJl-tg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569665/txs/51569663%2C51569664%2C51569665%2C51569666/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPr-IeD5mNL8GNQqPtjxnU0UsyPEz1nYFipScngQqWZ3iNwgQcHJoKktmwMWSuUik_ihUOVo4kM/spc/l3OVKafSkcKQPT6SYtDj1qibC_diXBWx4UWgnJyVx4F0SdQe6Euln5mgcsOGtPf2oJ8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcY9xi3-dCNaL91Ba_f4TzcKMuXLNl6Kyldd0T5NSTFUCIQDO9can7OkhO2vjFzNWhLlqaGF46UvLNt0fYjkN6TxRZw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/veSpg5d.png" tvg-id="", METRO TV TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
