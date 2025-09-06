@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757142120/ei/CIi7aLCSMfqamLQP6770gQI/ip/135.232.225.19/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569639/txs/51569633%2C51569634%2C51569635%2C51569636%2C51569637%2C51569638%2C51569639/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPcOQ-fBz4nCKwXC7T-fBxD1WZdr7UDh222WXmVy5T_aXdegKuq6GtbG1Q4nBkRPexiet5mAHjD/spc/l3OVKQyMbcmDtzu91OUku-ZEgUWC2nPpC3Xi10HweIPlLfHAB1ccpkDWScRClrmRIaY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJp3LiMeFLky_-e7irY3Gls9wIExxStskbKe-f5UUqYVAiEAlQg8xokmZZb89wvicgCz0n7i98-yStq7gKzlVBBxNUQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Kairali News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -504,7 +504,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Wang Gao Liao
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757128516/ei/5FK7aPO1J-Tty_sP6Kva2Aw/ip/172.184.210.163/id/lhXXhDyjFtI.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMuM0C4hEecgPeTZvNje6PJGcqK9wdUZi2iQxsQHJeei-rwzFM2MNbycyd-N81PAnRW6z1ZsUof/spc/l3OVKTvFHxEFCwFtzIPCDtdlDGgkfvbp09LdCOGOhiK8ZpdgB3kymoawVPj6wD-KrjQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVKHYm6NRd3RvR6vBCjZkL87saf7hjZWzyc1WjU7FYm8CIE3Nf_wh9XXN9dbPvvuYqjxqDSwDPQ0OB6ioaYoeFtEr/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Gaomei Wetland 4K Live Camera
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
