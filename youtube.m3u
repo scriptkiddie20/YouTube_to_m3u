@@ -324,13 +324,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767378768/ei/8LpXafLQNf2c2_gPurKn2AI/ip/172.182.225.136/id/L84qL_x_Xao.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AYUSA3CRSIcn8LIBn2K0a5OJs7lmxgLKNL38ww4HYjMFQtcop6suzrywDWj-XKhTSl6KkyZZdvPSeIxH/spc/wH4Qq1luYuyamiwu6jcCrqcHF56fCUcqhoByNb-uk7KVeLtYT9wSb8u3aeDQePKKeWA/vprv/1/go/1/ns/uDonU7yH1XspMH1r8MvNTNoR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/CNmxP_kCFgvcpex5PB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVTL1t4pYvotKaUsuBunBtFhwqJT9VStvwgnWtsMyOHwCIDVFBHY7YEygFWSJmHY_3GBzlbSTRHqa-hoR1xlhzcXp/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767378771/ei/87pXaZjkBp-0qvAPmvC-oAs/ip/172.182.225.136/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BGS0PrWbzdFF2YU0zlWTSQDi66Uwe_S4RySA4lA69cWIX0qqmBAkjjNHRLmudAMC8e_yQfmovX/spc/wH4QqzIwXucburakOXSiiyaRh6FGt-GlFwbc8AQIpT7z-IjuvAuXusaxRRpLG8-Buzw/vprv/1/go/1/ns/iJoa8I3Gyyqpl3v7WeKtstgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/d_HxoH1DzdhE3n8ohF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXpj01n-HLLc9buZs4FnpXaa9qB-lrMymX2PrxptYZ-ECIQDRZN09VdWe3lGz5VVkBB7M7-tDkbU7LreQ2ZHd_9-UMg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ABP NEWS
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -456,7 +456,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767378828/ei/LLtXab_PJsShlu8PypXfwAY/ip/172.182.225.136/id/_y0aoWXSy3Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Ds9F8a3tEjmP0N75F_Ki0eD8cCsKrKf2hygVNI58JDfcv1COqZbGivLqTbWDjn2M6EsnlqyqKd/spc/wH4Qq0sND2RCUdjoUIg4OlPjVbJfabsIAIp1Ri_fIcDzSIR436ZUpJ_7zGM7GCDbQ-Q/vprv/1/go/1/ns/sAOw5B6_WyblVfpJmPLFm7oR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/n5J8uw2Ot63yjrYbSP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMPS9afPztavxYbM-TsKySzwyGxnExAihkff0AWV5dQBAiAbSzaYY5dz56WUwXdGy0OQNvf_z3roMeZ6_49g-sok9w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
