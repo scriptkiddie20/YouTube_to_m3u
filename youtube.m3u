@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769052276/ei/FERxabHOCJillu8P-oSh4AY/ip/135.232.225.21/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pgD2GIaPDVPlS3rwsEeafQppfDYXb1OjOH7tZ6q39y65A-dhzw9AlHrdAdFIi3evTN1XQ8sNdP/spc/q5xjPFx3RTxioeDrz66EyhxqViZOsMtgbUgDDOwHXsQKDCLehXZE40vMNr7FXgkrEAM/vprv/1/go/1/ns/zGMhkVFkt9haxVrkmnmHzRoS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626154/dover/11/n/GtS8F8HT_95gnFvGsZR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhALW8bA-Qho3pS2QchkG_QeGX-IuqnOVoyecXY8SNDC_UAiBNhc8PRxBJ0poIJRwfs0rwT6w8amvgKagP9_bBShQ8oQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png" tvg-id="", Meditation Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -396,7 +396,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769052326/ei/RkRxaYO2LLqL2_gPs53nuA4/ip/135.232.225.21/id/ZUWCYiak4wg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rToXJ_bmgbQ0agULhPgDqpfXR-j6YZvLdeyLffxuhY2TEo6i5Y7Ow50eFJNlRNV07jQv-VZOU5/spc/q5xjPMrZ-OaPMt8b5ZrIX-Xqew_S4Rud-HgZR1Jls98BjGG6BFIrLUg1NV7FgHzOv0YybQ/vprv/1/go/1/ns/3r3YD3STdMml2et62ASnRfQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/FBi4qU3-Dvhgvh1YozD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMgV7Txb9Zb51yFs2T2uxogbOBWjUWPSqRq9sOuujX8_AiAgi3mmYLYOUkpjENe0LTHb4_k5lwRq5CmhV83wR9nWDQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
