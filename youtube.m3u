@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772016529/ei/MX-eaYf-LqSLlu8PqP2jgAU/ip/135.232.201.247/id/EvIZaz16DI0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AVNa5-zezcgqhwwFSYr8A7xg4AEOjOL55im14LqEppwNbceuUVgIerEhEvvLT9Wza01DA-e29mUFcPgJ/spc/6dlaFC1tQRfHdj9IK3v-J0n_YNURkVfmlTWRD7cAWTxnrgK0TUEZQxs7-sQ6nqq92yd5rnz7Qdo/vprv/1/go/1/ns/P14n0snEm10RvM8ujYw00S0S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968/dover/11/n/3NWA3uO0SPNpNRpjqY/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhALMfvmnVY7622ZWt3zqMK2OYMjRIZrSxS2MJ_syiWhGCAiARtkBhanSuURfyuwrsiFUOeyap8W3zxlnwT1gc0jL7iQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
