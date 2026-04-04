@@ -408,7 +408,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775338118/ei/Ji7Raau2HtnpybgPu7ugiAQ/ip/172.215.217.192/id/J1xx3F45fLA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGKyUmpuvwFrRhb0K2RLFXtWMdehcjx3YuGURDisLQBJrRjLVQEokN-G5nAHUsIous2-5Q_slpk0/spc/jlWavfYnKv4oYAgIT1AdZ0PVBXJw8q_JQvVpHle_578ka4Rb6kdzgfIcR6i2_yXZPbUCAw/vprv/1/go/1/ns/KM8z2Tr9l0Z9NiQzQ4d3ikMU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/MJ984Ycvdstmh2LnH7-1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgJtkFYH7-dELd_-DN4SDiXqZdXAYakmLr8zbjVgPdHIMCIQDG1tE79jYGt0DpNV9n0AMjJ5Co-8LGEnmIOLn7mx-pOA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
