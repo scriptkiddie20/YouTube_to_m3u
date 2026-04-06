@@ -459,7 +459,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775523179/ei/CwHUabylBPjcybgPls3PGA/ip/57.151.137.41/id/hWoK_40X09w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811607/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGIJ85G4fOTNAS1OIXUZ94FxXLvNA5nqZ9HC3sc6_UJQNRKshDwi0GpWrXXUevM9tQKEulN-F0y_/spc/jlWavQPmqFd97OqFW-IZP4wtOsohStXKE0ZwFIyn1R13fKNJLaOG_XkPq5AJfEm0b2R2jg/vprv/1/go/1/ns/p7utghN5SqAU_bUw6ixGhXIU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/cy8C2bFdbKYrx7qb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgQxLfoue03E9qwqLKUZ3fYpm14eI5tF2Xrrmocdg54s8CIQCh9hEY2w262tml2v4wJDvmRVJVnkNEEu62kdbFrHKTmw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -783,7 +783,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Political Podcast" tvg-logo="https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ" tvg-id="", CobraCastIRL
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775523289/ei/eQHUaYeuH_KM2_gP2J-TmQg/ip/57.151.137.41/id/p3XXxT5oWAg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLaY2Y8ygudl2SYqaNxus_VgfhkyTem84Bh2x5fY23BpuAAswcN-vLuHtcNOKCYFXXLv7NzUymu/spc/jlWavTBykrxBKk0DzmBUnvIZKs_V75ZQJPVPOSVBqyPaHDf_DPGSeweC0zBj7c-lZov76g/vprv/1/go/1/ns/yvV5B8DA9sWfDZ674yoDO0YU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/phJf-xSgFxAf1WwtG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAMH3CZL4fzXkDrakkDlBjTOle-6gHJE1QDxJL3IiHVgXAiAxi4ivGrUFYO1lmBaIKerGtuUKEn_HlkWGABfrNnS5Mw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Spiritual" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" tvg-id="", Aastha TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
