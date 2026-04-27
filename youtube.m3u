@@ -414,7 +414,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777290572/ei/7PjuacnxKI2Lr9gPo_Di2Ao/ip/52.186.174.241/id/ZvlE6Vkx2_8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGK201FDy8OUye5WROzRdPJ1nNIQXkdFZFF9-fvWx8mDOhugMJR2CMRS-zA7GxEyFzTG12PYVRpp/spc/jlWavUX4Lia-nZicxck7gVGkQ57AoLRtQpg6WGwMmQRzyF4x2Y1VqFYT_ZgV7ru5CuEGRA/vprv/1/go/1/ns/S3eSO2x59v9eOE1dnYeRIecU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51869322/dover/11/n/n7TEkr247C2gBl_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgRLphUdTazS0kzCAVSslf6ggk535B4bNcI-vxGl42KL8CIQCOoOUtcCY08-L9V_3rYwoOmr8w1VLwRtCBmEo4xRI50g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
