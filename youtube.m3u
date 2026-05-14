@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778799397/ei/xf4FauaCDbSGir4PuKDKgAI/ip/135.232.220.250/id/MZZyxQ0pOPo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwoO-uVKTOVF9dmPhNykj8kbVQolritvcEHpyHDvYGtXlEzNA6Kl6we8YjCoTNbPDsivOkWX-sRB/spc/96Xrv0Ge4nSdvN81YcB_FIDPMT0dY1Sg-A-qQVLH6rZQ2cJENgidr_s_c8VIup1FDURdzg/vprv/1/go/1/ns/-unhNGnk3Xjo6si_WlsDg3wV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/G309HDMNnBGS1s/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgW7eeXC7POTq0YVSBbu8wcDc0RdrsNNe6VFTUkLCsWvoCIHyNNWk09lqk8ZUZLUbTupsV54FoikYB3XjYDFFOuZQT/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -426,7 +426,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778809304/ei/eCUGar-wEeLHybgP0q_16Ac/ip/68.220.61.180/id/7VdE9EoMq04.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwrWNyEHwtNhP_2p07WoQwFXcaaM9l93IwuyAlIs2SHW_ZO45-GdbevMO0jhOhUSvn8gGCELYauM/spc/96Xrv7qfNKZFLsb0f_e6VlpvHMcrh2Irzq2L9LWFpP--Y7Qw56POZNEr36XtaXk8YHMTGg/vprv/1/go/1/ns/vS1kAwuH_FI2U4Taz6PJ1OMV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/E3ntFJ3FSb4BJ8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKrNhvyeI0plqcTKAxqsAgT6kMR8xS2yvKXEl6k5IksxAiEA161DxX5yaYPzG6LXXGICSCXI7EsBWhNMHe_QzFFsp8E%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
