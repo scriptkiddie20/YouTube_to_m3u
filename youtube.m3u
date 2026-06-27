@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782609215/ei/3iBAasuQOuKHkucP7puK6Q0/ip/172.174.167.18/id/nspqWHqT8Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVUrL-BYLbjGqPztJnlKllpy98ZHrY9Yi398F15GnMqm7ZMwmN1etbmwOpvD_PvxfnQRQVzY1zc/spc/SQ-umvELN2JaxGTVsKQFBVk1Bk9vW4IT0XhiXSe17rQ5gFxwME3_D-Rkvte68roRtdQ2HA/vprv/1/go/1/ns/Y_nzGiaevJPKytZwg9awoZYW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C52017147/dover/11/n/9nyCruVjT8zMpGp9X/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANz4GHivC_M09gHioxcnVz6idzR7EIU-LsX9e_Gb17eTAiEA0VE699uMEs9gTUoB-Q5OIIRpw5L8RjADELn1vVmVocU%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -462,7 +462,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782619282/ei/MkhAauiqLMLyy_sPxPrqcA/ip/52.159.225.194/id/pykpO5kQJ98.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/ARmQxEUn7FNHz_cI0gBMWHpCrkpFX5w-q6xlpQnCKr3A8M6O2AIB9vqHEEeGAm_H9CKlM8InLNTmU6D4/spc/SQ-umi_yNlEgNuRXe3za7EcSjuELdE5coLfZj-CbfPHl56XPuG0Zlt4MMaR4x1-T-OFA_g/vprv/1/go/1/ns/NpNBR0z9HLxdeylmo15y0x4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/2HoJ1o6DaZw1Mzfx6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgV5ROj4XctziYRydZJfIXzGHZtRDyeI3UrGmu4E5PAn4CIDTr1uvVTOeesrSg6LoZ1zKnTr_kZv2o-dYjto7eJHHC/file/index.m3u8
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", Rangin Kaman
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
